@@ -8,4 +8,10 @@ this is my first push request
 
 <br>
 hello commited.
+<br>
 
+**This text is bold**
+
+__This text is also bold__
+
+<font color="red">This text is bold and red using HTML</font>
